@@ -52,7 +52,7 @@ AI-powered video recap creator for movies and TV shows using Google Gemini. Crea
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/your-username/moviesandtvshowsrecapsmakerwithai.git
+git clone https://github.com/yaskovbs/moviesandtvshowsrecapsmakerwithai.git
 cd moviesandtvshowsrecapsmakerwithai
 npm install
 ```
@@ -239,9 +239,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 **Developer**: [Your Name]
-**Email**: your.email@example.com
-**Issues**: [GitHub Issues](https://github.com/your-username/moviesandtvshowsrecapsmakerwithai/issues)
-**Documentation**: [Project Wiki](https://github.com/your-username/moviesandtvshowsrecapsmakerwithai/wiki)
+**Email**: yaskovbs2502@gmail.com
+**Issues**: [GitHub Issues](https://github.com/yaskovbs/moviesandtvshowsrecapsmakerwithai/issues)
+**Documentation**: [Project Wiki](https://github.com/yaskovbs/moviesandtvshowsrecapsmakerwithai/wiki)
 
 ---
 
